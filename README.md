@@ -1,4 +1,7 @@
 # best-repo-ever
 
 Hello World
-added line 4 in new-branch-1
+<<<<<<< HEAD
+
+
+noch ne Zeile (6) new-branch-2
